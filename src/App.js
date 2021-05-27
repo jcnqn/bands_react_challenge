@@ -10,6 +10,7 @@ import { AppRouter } from './routers/AppRoutes';
 
 export function App() {
 
+
   return (
     <Provider store={ store }>
       <div>
