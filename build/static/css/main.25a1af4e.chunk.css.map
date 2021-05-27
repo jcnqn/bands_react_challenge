@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,MACI,oBAAa,CAAb,YAAa,CACb,sBAAe,CAAf,cACJ,CAEA,MACI,WACJ,CAKA,iBACI,cACJ","file":"main.25a1af4e.chunk.css","sourcesContent":["\n.flex{\n    display: flex;\n    flex-wrap: wrap;\n}\n\n.w300 {\n    width: 300px;\n}\n\n.dropdown-item{\n    cursor: pointer;\n}\na {\n    cursor: pointer;\n}\n"]}
