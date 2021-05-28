@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/bands_react_challenge/static/css/main.25a1af4e.chunk.css",
-    "main.js": "/bands_react_challenge/static/js/main.dd75665c.chunk.js",
-    "main.js.map": "/bands_react_challenge/static/js/main.dd75665c.chunk.js.map",
-    "runtime-main.js": "/bands_react_challenge/static/js/runtime-main.15460ff3.js",
-    "runtime-main.js.map": "/bands_react_challenge/static/js/runtime-main.15460ff3.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/bands_react_challenge/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.dc6ce91d.chunk.js": "/bands_react_challenge/static/js/2.dc6ce91d.chunk.js",
-    "static/js/2.dc6ce91d.chunk.js.map": "/bands_react_challenge/static/js/2.dc6ce91d.chunk.js.map",
-    "index.html": "/bands_react_challenge/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/bands_react_challenge/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.25a1af4e.chunk.css.map": "/bands_react_challenge/static/css/main.25a1af4e.chunk.css.map",
-    "static/js/2.dc6ce91d.chunk.js.LICENSE.txt": "/bands_react_challenge/static/js/2.dc6ce91d.chunk.js.LICENSE.txt"
+    "main.css": "/GifApp/static/css/main.25a1af4e.chunk.css",
+    "main.js": "/GifApp/static/js/main.7c5a6b2d.chunk.js",
+    "main.js.map": "/GifApp/static/js/main.7c5a6b2d.chunk.js.map",
+    "runtime-main.js": "/GifApp/static/js/runtime-main.8b1f4fe7.js",
+    "runtime-main.js.map": "/GifApp/static/js/runtime-main.8b1f4fe7.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/GifApp/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.9d4b3f17.chunk.js": "/GifApp/static/js/2.9d4b3f17.chunk.js",
+    "static/js/2.9d4b3f17.chunk.js.map": "/GifApp/static/js/2.9d4b3f17.chunk.js.map",
+    "index.html": "/GifApp/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/GifApp/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.25a1af4e.chunk.css.map": "/GifApp/static/css/main.25a1af4e.chunk.css.map",
+    "static/js/2.9d4b3f17.chunk.js.LICENSE.txt": "/GifApp/static/js/2.9d4b3f17.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.15460ff3.js",
+    "static/js/runtime-main.8b1f4fe7.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.dc6ce91d.chunk.js",
+    "static/js/2.9d4b3f17.chunk.js",
     "static/css/main.25a1af4e.chunk.css",
-    "static/js/main.dd75665c.chunk.js"
+    "static/js/main.7c5a6b2d.chunk.js"
   ]
 }
